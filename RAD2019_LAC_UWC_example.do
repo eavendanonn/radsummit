@@ -85,4 +85,4 @@ learnsyntax var1 var2, option(string)
 
 g var4 = "string"
 learnsyntax var4
-*
+*This is new
